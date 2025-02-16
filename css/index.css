@@ -11,6 +11,10 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    background-color: black;
+}
+h1, p {
+    color: white;
 }
 #container {
     position: absolute;
